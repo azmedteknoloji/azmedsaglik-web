@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-24 -24 519 148" width="2076" height="592">
+  <g id="A" fill="#FFFFFF">
+    <polygon points="41.35,0 58.65,0 99.65,100 82.35,100"/>
+    <polygon points="41.35,0 58.65,0 36.51,54 19.21,54"/>
+    <path d="M78,63 H38 Q15.52,63 7.73,82 L0.35,100 H17.65 L21.75,90 Q26.26,79 40,79 H80 Z"/>
+  </g>
+  <g id="Z" fill="#FFFFFF" transform="translate(108 0)">
+    <rect x="0" y="0" width="78" height="16"/>
+    <rect x="0" y="84" width="78" height="16"/>
+    <polygon points="58,0 78,0 20,100 0,100"/>
+  </g>
+  <g id="M" fill="#FFFFFF" transform="translate(199 0)">
+    <rect x="0" y="0" width="16" height="100"/>
+    <rect x="84" y="0" width="16" height="100"/>
+    <polygon points="0,0 20,0 50,50 80,0 100,0 57,74 43,74"/>
+  </g>
+  <g id="E" fill="#FFFFFF" transform="translate(312 0)">
+    <rect x="0" y="0" width="62" height="16"/>
+    <path d="M0,42 H58 V58 H16 V84 H62 V100 H0 Z"/>
+  </g>
+  <g id="D" fill="#FFFFFF" transform="translate(387 0)">
+    <path fill-rule="evenodd" d="M0,0 H44 A40,40 0 0 1 84,40 V60 A40,40 0 0 1 44,100 H0 Z M16,16 V84 H44 A24,24 0 0 0 68,60 V40 A24,24 0 0 0 44,16 Z"/>
+  </g>
+</svg>

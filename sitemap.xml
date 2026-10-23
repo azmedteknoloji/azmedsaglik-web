@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://azmedsaglik.com/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://azmedsaglik.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://azmedsaglik.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://azmedsaglik.com/"/>
+  </url>
+  <url>
+    <loc>https://azmedsaglik.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://azmedsaglik.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://azmedsaglik.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://azmedsaglik.com/"/>
+  </url>
+  <url>
+    <loc>https://azmedsaglik.com/urunler.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://azmedsaglik.com/urunler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://azmedsaglik.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://azmedsaglik.com/urunler.html"/>
+  </url>
+  <url>
+    <loc>https://azmedsaglik.com/en/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://azmedsaglik.com/urunler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://azmedsaglik.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://azmedsaglik.com/urunler.html"/>
+  </url>
+  <url>
+    <loc>https://azmedsaglik.com/hakkimizda.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://azmedsaglik.com/hakkimizda.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://azmedsaglik.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://azmedsaglik.com/hakkimizda.html"/>
+  </url>
+  <url>
+    <loc>https://azmedsaglik.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://azmedsaglik.com/hakkimizda.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://azmedsaglik.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://azmedsaglik.com/hakkimizda.html"/>
+  </url>
+  <url>
+    <loc>https://azmedsaglik.com/iletisim.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://azmedsaglik.com/iletisim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://azmedsaglik.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://azmedsaglik.com/iletisim.html"/>
+  </url>
+  <url>
+    <loc>https://azmedsaglik.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://azmedsaglik.com/iletisim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://azmedsaglik.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://azmedsaglik.com/iletisim.html"/>
+  </url>
+</urlset>
